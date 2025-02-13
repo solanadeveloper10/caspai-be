@@ -1,0 +1,6 @@
+{
+   "botNicknameForReply": "CaspAI",
+   "tgMaxHistoryMessagesCount": 10,
+   "promptName": "caspai.json",
+   "enableForDomains": ["https://caspai.app", "https://caspy-2.vercel.app"]
+}
